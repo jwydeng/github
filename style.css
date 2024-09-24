@@ -1379,7 +1379,8 @@ progress {
 
   .col-lg-4 {
     flex: 0 0 auto;
-    width: 33.33333333%;
+    width: 100%;
+    padding: 100px
   }
 
   .col-lg-5 {
@@ -7365,6 +7366,8 @@ textarea.form-control-lg {
 
 .mb-5 {
   margin-bottom: 3rem !important;
+  color: #d63384;
+  font-size: larger;
 }
 
 .mb-auto {
