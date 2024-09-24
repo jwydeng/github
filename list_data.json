@@ -4,32 +4,32 @@
 			"Restaurant": "Ben Tre",
 			"Location": "Milbrae, CA",
 			"Cuisine": "Vietnamese",
-			"Rating": "⭐⭐⭐⭐⭐"
+			"Ratings": "⭐⭐⭐⭐⭐"
 			
 		},
 		{
 			"Restaurant": "Champa Garden",
 			"Location": "San Francisco, CA",
 			"Cuisine": "Laotian",
-			"Rating": "⭐⭐⭐⭐"
+			"Ratings": "⭐⭐⭐⭐"
 		},
 		{
 			"Restaurant": "Pink Onion",
 			"Location": "San Francisco, CA",
 			"Cuisine": "Italian",
-			"Rating": "⭐⭐⭐⭐"
+			"Ratings": "⭐⭐⭐⭐"
 		},
 		{
 			"Restaurant": "Guad's",
 			"Location": "Davis, CA",
 			"Cuisine": "Mexican",
-			"Rating": "⭐⭐⭐"
+			"Ratings": "⭐⭐⭐"
 		},
 		{
 			"Restaurant": "Zareen's",
 			"Location": "Palo Alto, CA",
 			"Cuisine": "Pakistani",
-			"Rating": "⭐⭐⭐⭐"
+			"Ratings": "⭐⭐⭐⭐"
 		}
 	]
 }
